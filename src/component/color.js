@@ -14,4 +14,4 @@ function FavoriteColor() {
   );
 }
 
-export default FavoriteColor; // ✅ THIS LINE is required
+export default FavoriteColor; 
